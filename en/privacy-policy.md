@@ -18,7 +18,7 @@ Zikrly respects your privacy. This app does **not** collect, store, or share any
 - No data is ever shared with third parties.
 
 ## Contact
-If you have any questions, feel free to contact us at: `furkan@furkanural.dev`
+If you have any questions, feel free to contact us at: [furkan@furkanural.dev](mailto:furkan@furkanural.dev)
 
 ---
 
